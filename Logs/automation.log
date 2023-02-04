@@ -1,0 +1,302 @@
+01-23-2023 09:14:58 PM: INFO: *********** Verifying Login Test ***********
+01-23-2023 09:15:00 PM: INFO: *********** Test_01_Login ***********
+01-23-2023 09:15:00 PM: INFO: *********** Verifying Homepage Title ***********
+01-23-2023 09:15:09 PM: INFO: *********** Homepage Title Test Passed ***********
+01-23-2023 09:15:14 PM: INFO: *********** Login Test Passed ***********
+01-23-2023 09:15:58 PM: INFO: *********** Verifying Login Test ***********
+01-23-2023 09:16:00 PM: INFO: *********** Test_01_Login ***********
+01-23-2023 09:16:00 PM: INFO: *********** Verifying Homepage Title ***********
+01-23-2023 09:16:07 PM: INFO: *********** Login Test Passed ***********
+01-23-2023 09:16:24 PM: INFO: *********** Homepage Title Test Passed ***********
+01-23-2023 11:48:29 PM: INFO: *********** Test_02_DDT_Login ***********
+01-23-2023 11:48:29 PM: INFO: *********** Verifying Login DDT Test ***********
+01-23-2023 11:48:38 PM: INFO: ***Test Passed.
+01-23-2023 11:48:43 PM: INFO: ***Test Passed.
+01-23-2023 11:53:33 PM: INFO: *********** Test_02_DDT_Login ***********
+01-23-2023 11:53:33 PM: INFO: *********** Verifying Login DDT Test ***********
+01-23-2023 11:53:42 PM: INFO: ***Test Passed.
+01-23-2023 11:53:47 PM: INFO: ***Test Passed.
+01-23-2023 11:53:51 PM: INFO: ***Test Passed.
+01-23-2023 11:53:55 PM: INFO: ***Test Passed.
+01-23-2023 11:53:55 PM: INFO: ***** Login DDT Test is passed.*****
+01-23-2023 11:53:57 PM: INFO: ******** End of Login DDT Test. ********
+01-23-2023 11:53:57 PM: INFO: *********** Completed Test_02_DDT_Login ***********
+01-27-2023 05:20:43 PM: INFO: *********** Test_01_Login ***********
+01-27-2023 05:20:43 PM: INFO: *********** Verifying Homepage Title ***********
+01-27-2023 05:20:49 PM: INFO: *********** Homepage Title Test Passed ***********
+01-27-2023 05:20:51 PM: INFO: *********** Verifying Login Test ***********
+01-27-2023 05:20:57 PM: INFO: *********** Login Test Passed ***********
+01-29-2023 08:56:07 PM: INFO: *********** Test_03_Add_New_Customer ***********
+01-29-2023 08:56:14 PM: INFO: *********** Login Successful ***********
+01-29-2023 08:56:14 PM: INFO: *********** Starting Add Customer Test ***********
+01-29-2023 08:56:17 PM: INFO: *********** Providing New Customer Information ***********
+01-29-2023 08:56:32 PM: INFO: *********** Starting Add Customer Test ***********
+01-29-2023 08:56:32 PM: INFO: *********** Add Customer Validation Started ***********
+01-29-2023 08:56:33 PM: INFO: *********** Add Customer Test Failed ***********
+01-29-2023 08:59:52 PM: INFO: *********** Test_01_Login ***********
+01-29-2023 08:59:52 PM: INFO: *********** Verifying Homepage Title ***********
+01-29-2023 08:59:56 PM: INFO: *********** Homepage Title Test Passed ***********
+01-29-2023 08:59:57 PM: INFO: *********** Verifying Login Test ***********
+01-29-2023 09:00:07 PM: INFO: *********** Login Test Passed ***********
+01-29-2023 09:00:38 PM: INFO: *********** Test_03_Add_New_Customer ***********
+01-29-2023 09:00:45 PM: INFO: *********** Login Successful ***********
+01-29-2023 09:00:45 PM: INFO: *********** Starting Add Customer Test ***********
+01-29-2023 09:00:49 PM: INFO: *********** Providing New Customer Information ***********
+01-29-2023 09:01:04 PM: INFO: *********** Starting Add Customer Test ***********
+01-29-2023 09:01:04 PM: INFO: *********** Add Customer Validation Started ***********
+01-29-2023 09:01:04 PM: INFO: *********** Add Customer Test Failed ***********
+01-29-2023 09:18:11 PM: INFO: *********** Test_03_Add_New_Customer ***********
+01-29-2023 09:18:19 PM: INFO: *********** Login Successful ***********
+01-29-2023 09:18:19 PM: INFO: *********** Starting Add Customer Test ***********
+01-29-2023 09:18:22 PM: INFO: *********** Providing New Customer Information ***********
+01-29-2023 09:18:37 PM: INFO: *********** Starting Add Customer Test ***********
+01-29-2023 09:18:37 PM: INFO: *********** Add Customer Validation Started ***********
+01-29-2023 09:18:38 PM: INFO: *********** Add Customer Test Passed ***********
+01-29-2023 09:18:38 PM: INFO: *********** Ending Add Customer Test ***********
+01-30-2023 05:19:54 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:20:02 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:20:02 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:20:04 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:21:19 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:21:25 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:21:25 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:21:27 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:23:54 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:24:00 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:24:00 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:24:01 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:25:14 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:25:19 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:25:19 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:25:21 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:26:31 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:26:37 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:26:37 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:26:39 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:27:24 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:27:28 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:27:28 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:27:30 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:29:48 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:29:54 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:29:54 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:29:56 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:34:08 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:34:15 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:34:15 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:34:17 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:35:56 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:36:01 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:36:01 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:36:03 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:39:19 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:39:33 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:39:33 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:39:34 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:39:38 PM: INFO: *********** Ending Search Customer By Email Test ***********
+01-30-2023 05:41:03 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:41:09 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:41:09 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:41:11 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:41:33 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:41:39 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:41:39 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:41:40 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:45:04 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:45:20 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:45:20 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:45:23 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:46:03 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:46:32 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:46:32 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:46:34 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:47:28 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:47:37 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:47:37 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:47:39 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:50:23 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:50:32 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:50:32 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:50:34 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:50:38 PM: INFO: *********** Ending Search Customer By Email Test ***********
+01-30-2023 05:51:42 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 05:51:50 PM: INFO: *********** Login Successful ***********
+01-30-2023 05:51:50 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 05:51:52 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 05:51:55 PM: INFO: *********** Ending Search Customer By Email Test ***********
+01-30-2023 06:23:48 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 06:23:52 PM: INFO: *********** Login Successful ***********
+01-30-2023 06:23:52 PM: INFO: *********** Starting Search Customer By Name Test ***********
+01-30-2023 06:23:52 PM: INFO: *********** Searching Customer By Name ***********
+01-30-2023 06:23:57 PM: INFO: *********** Ending Search Customer By Name Test ***********
+01-30-2023 06:25:09 PM: INFO: *********** Test_05_Search_Customer_By_Name ***********
+01-30-2023 06:25:17 PM: INFO: *********** Login Successful ***********
+01-30-2023 06:25:17 PM: INFO: *********** Starting Search Customer By Name Test ***********
+01-30-2023 06:25:17 PM: INFO: *********** Searching Customer By Name ***********
+01-30-2023 06:25:22 PM: INFO: *********** Ending Search Customer By Name Test ***********
+01-30-2023 06:27:10 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+01-30-2023 06:27:20 PM: INFO: *********** Login Successful ***********
+01-30-2023 06:27:20 PM: INFO: *********** Starting Search Customer By Email Test ***********
+01-30-2023 06:27:20 PM: INFO: *********** Searching Customer By Email ***********
+01-30-2023 06:27:25 PM: INFO: *********** Ending Search Customer By Email Test ***********
+02-01-2023 05:25:57 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-01-2023 05:26:04 PM: INFO: *********** Login Successful ***********
+02-01-2023 05:26:04 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 05:26:11 PM: INFO: *********** Providing New Customer Information ***********
+02-01-2023 05:26:27 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 05:26:27 PM: INFO: *********** Add Customer Validation Started ***********
+02-01-2023 05:26:27 PM: INFO: *********** Add Customer Test Passed ***********
+02-01-2023 05:26:27 PM: INFO: *********** Ending Add Customer Test ***********
+02-01-2023 05:26:29 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 05:26:36 PM: INFO: *********** Login Test Passed ***********
+02-01-2023 07:10:36 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-01-2023 07:10:44 PM: INFO: *********** Login Successful ***********
+02-01-2023 07:10:44 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 07:10:51 PM: INFO: *********** Providing New Customer Information ***********
+02-01-2023 07:11:08 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 07:11:08 PM: INFO: *********** Add Customer Validation Started ***********
+02-01-2023 07:11:08 PM: INFO: *********** Add Customer Test Passed ***********
+02-01-2023 07:11:10 PM: INFO: *********** Ending Add Customer Test ***********
+02-01-2023 07:11:12 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 07:11:21 PM: INFO: *********** Login Test Passed ***********
+02-01-2023 07:12:33 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-01-2023 07:12:45 PM: INFO: *********** Login Successful ***********
+02-01-2023 07:12:45 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 07:12:49 PM: INFO: *********** Providing New Customer Information ***********
+02-01-2023 07:13:07 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 07:13:07 PM: INFO: *********** Add Customer Validation Started ***********
+02-01-2023 07:13:07 PM: INFO: *********** Add Customer Test Passed ***********
+02-01-2023 07:13:07 PM: INFO: *********** Ending Add Customer Test ***********
+02-01-2023 07:13:09 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 07:13:17 PM: INFO: *********** Login Test Passed ***********
+02-01-2023 08:52:40 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-01-2023 08:52:47 PM: INFO: *********** Login Successful ***********
+02-01-2023 08:52:47 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 08:52:51 PM: INFO: *********** Providing New Customer Information ***********
+02-01-2023 08:53:09 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 08:53:09 PM: INFO: *********** Add Customer Validation Started ***********
+02-01-2023 08:53:09 PM: INFO: *********** Add Customer Test Passed ***********
+02-01-2023 08:53:10 PM: INFO: *********** Ending Add Customer Test ***********
+02-01-2023 08:53:12 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 08:53:19 PM: INFO: *********** Login Test Passed ***********
+02-01-2023 09:02:22 PM: INFO: *********** Test_01_Login ***********
+02-01-2023 09:02:22 PM: INFO: *********** Verifying Homepage Title ***********
+02-01-2023 09:02:26 PM: INFO: *********** Homepage Title Test Passed ***********
+02-01-2023 09:02:28 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 09:02:37 PM: INFO: *********** Login Test Passed ***********
+02-01-2023 09:02:39 PM: INFO: *********** Test_02_DDT_Login ***********
+02-01-2023 09:02:39 PM: INFO: *********** Verifying Login DDT Test ***********
+02-01-2023 09:02:49 PM: INFO: ***Test Passed.
+02-01-2023 09:02:54 PM: INFO: ***Test Passed.
+02-01-2023 09:02:58 PM: INFO: ***Test Passed.
+02-01-2023 09:03:02 PM: INFO: ***Test Passed.
+02-01-2023 09:03:02 PM: INFO: ***** Login DDT Test is passed.*****
+02-01-2023 09:03:03 PM: INFO: ******** End of Login DDT Test. ********
+02-01-2023 09:03:03 PM: INFO: *********** Completed Test_02_DDT_Login ***********
+02-01-2023 09:03:05 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+02-01-2023 09:03:12 PM: INFO: *********** Login Successful ***********
+02-01-2023 09:03:12 PM: INFO: *********** Starting Search Customer By Email Test ***********
+02-01-2023 09:03:12 PM: INFO: *********** Searching Customer By Email ***********
+02-01-2023 09:03:18 PM: INFO: *********** Ending Search Customer By Email Test ***********
+02-01-2023 09:03:21 PM: INFO: *********** Test_05_Search_Customer_By_Name ***********
+02-01-2023 09:03:28 PM: INFO: *********** Login Successful ***********
+02-01-2023 09:03:28 PM: INFO: *********** Starting Search Customer By Name Test ***********
+02-01-2023 09:03:28 PM: INFO: *********** Searching Customer By Name ***********
+02-01-2023 09:03:35 PM: INFO: *********** Ending Search Customer By Name Test ***********
+02-01-2023 09:16:20 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-01-2023 09:16:27 PM: INFO: *********** Login Successful ***********
+02-01-2023 09:16:27 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 09:16:31 PM: INFO: *********** Providing New Customer Information ***********
+02-01-2023 09:16:48 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 09:16:48 PM: INFO: *********** Add Customer Validation Started ***********
+02-01-2023 09:16:49 PM: INFO: *********** Add Customer Test Passed ***********
+02-01-2023 09:16:50 PM: INFO: *********** Ending Add Customer Test ***********
+02-01-2023 09:16:52 PM: INFO: *********** Test_01_Login ***********
+02-01-2023 09:16:52 PM: INFO: *********** Verifying Homepage Title ***********
+02-01-2023 09:16:55 PM: INFO: *********** Homepage Title Test Passed ***********
+02-01-2023 09:16:57 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 09:17:04 PM: INFO: *********** Login Test Passed ***********
+02-01-2023 09:17:06 PM: INFO: *********** Test_02_DDT_Login ***********
+02-01-2023 09:17:06 PM: INFO: *********** Verifying Login DDT Test ***********
+02-01-2023 09:17:15 PM: INFO: ***Test Passed.
+02-01-2023 09:17:21 PM: INFO: ***Test Passed.
+02-01-2023 09:17:25 PM: INFO: ***Test Passed.
+02-01-2023 09:17:29 PM: INFO: ***Test Passed.
+02-01-2023 09:17:29 PM: INFO: ***** Login DDT Test is passed.*****
+02-01-2023 09:17:29 PM: INFO: ******** End of Login DDT Test. ********
+02-01-2023 09:17:29 PM: INFO: *********** Completed Test_02_DDT_Login ***********
+02-01-2023 09:17:32 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+02-01-2023 09:17:37 PM: INFO: *********** Login Successful ***********
+02-01-2023 09:17:37 PM: INFO: *********** Starting Search Customer By Email Test ***********
+02-01-2023 09:17:37 PM: INFO: *********** Searching Customer By Email ***********
+02-01-2023 09:17:43 PM: INFO: *********** Ending Search Customer By Email Test ***********
+02-01-2023 09:17:45 PM: INFO: *********** Test_05_Search_Customer_By_Name ***********
+02-01-2023 09:17:53 PM: INFO: *********** Login Successful ***********
+02-01-2023 09:17:53 PM: INFO: *********** Starting Search Customer By Name Test ***********
+02-01-2023 09:17:53 PM: INFO: *********** Searching Customer By Name ***********
+02-01-2023 09:17:59 PM: INFO: *********** Ending Search Customer By Name Test ***********
+02-01-2023 09:48:51 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-01-2023 09:48:58 PM: INFO: *********** Login Successful ***********
+02-01-2023 09:48:58 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 09:49:03 PM: INFO: *********** Providing New Customer Information ***********
+02-01-2023 09:49:20 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 09:49:20 PM: INFO: *********** Add Customer Validation Started ***********
+02-01-2023 09:49:20 PM: INFO: *********** Add Customer Test Passed ***********
+02-01-2023 09:49:21 PM: INFO: *********** Ending Add Customer Test ***********
+02-01-2023 09:49:23 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 09:49:34 PM: INFO: *********** Login Test Passed ***********
+02-01-2023 09:53:17 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-01-2023 09:53:23 PM: INFO: *********** Login Successful ***********
+02-01-2023 09:53:23 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 09:53:28 PM: INFO: *********** Providing New Customer Information ***********
+02-01-2023 09:53:44 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 09:53:44 PM: INFO: *********** Add Customer Validation Started ***********
+02-01-2023 09:53:45 PM: INFO: *********** Add Customer Test Passed ***********
+02-01-2023 09:53:45 PM: INFO: *********** Ending Add Customer Test ***********
+02-01-2023 09:53:47 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 09:53:56 PM: INFO: *********** Login Test Passed ***********
+02-01-2023 09:57:12 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-01-2023 09:57:16 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 11:12:55 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-01-2023 11:13:02 PM: INFO: *********** Login Successful ***********
+02-01-2023 11:13:02 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 11:13:06 PM: INFO: *********** Providing New Customer Information ***********
+02-01-2023 11:13:22 PM: INFO: *********** Starting Add Customer Test ***********
+02-01-2023 11:13:22 PM: INFO: *********** Add Customer Validation Started ***********
+02-01-2023 11:13:22 PM: INFO: *********** Add Customer Test Passed ***********
+02-01-2023 11:13:23 PM: INFO: *********** Ending Add Customer Test ***********
+02-01-2023 11:13:24 PM: INFO: *********** Verifying Login Test ***********
+02-01-2023 11:13:30 PM: INFO: *********** Login Test Passed ***********
+02-04-2023 10:54:51 PM: INFO: *********** Test_03_Add_New_Customer ***********
+02-04-2023 10:54:58 PM: INFO: *********** Login Successful ***********
+02-04-2023 10:54:58 PM: INFO: *********** Starting Add Customer Test ***********
+02-04-2023 10:55:02 PM: INFO: *********** Providing New Customer Information ***********
+02-04-2023 10:55:18 PM: INFO: *********** Starting Add Customer Test ***********
+02-04-2023 10:55:18 PM: INFO: *********** Add Customer Validation Started ***********
+02-04-2023 10:55:19 PM: INFO: *********** Add Customer Test Passed ***********
+02-04-2023 10:55:21 PM: INFO: *********** Ending Add Customer Test ***********
+02-04-2023 10:55:23 PM: INFO: *********** Test_01_Login ***********
+02-04-2023 10:55:23 PM: INFO: *********** Verifying Homepage Title ***********
+02-04-2023 10:55:26 PM: INFO: *********** Homepage Title Test Passed ***********
+02-04-2023 10:55:28 PM: INFO: *********** Verifying Login Test ***********
+02-04-2023 10:55:36 PM: INFO: *********** Login Test Passed ***********
+02-04-2023 10:55:38 PM: INFO: *********** Test_02_DDT_Login ***********
+02-04-2023 10:55:38 PM: INFO: *********** Verifying Login DDT Test ***********
+02-04-2023 10:55:47 PM: INFO: ***Test Passed.
+02-04-2023 10:55:52 PM: INFO: ***Test Passed.
+02-04-2023 10:55:56 PM: INFO: ***Test Passed.
+02-04-2023 10:56:00 PM: INFO: ***Test Passed.
+02-04-2023 10:56:00 PM: INFO: ***** Login DDT Test is passed.*****
+02-04-2023 10:56:00 PM: INFO: ******** End of Login DDT Test. ********
+02-04-2023 10:56:00 PM: INFO: *********** Completed Test_02_DDT_Login ***********
+02-04-2023 10:56:02 PM: INFO: *********** Test_04_Search_Customer_By_Email ***********
+02-04-2023 10:56:08 PM: INFO: *********** Login Successful ***********
+02-04-2023 10:56:08 PM: INFO: *********** Starting Search Customer By Email Test ***********
+02-04-2023 10:56:08 PM: INFO: *********** Searching Customer By Email ***********
+02-04-2023 10:56:13 PM: INFO: *********** Ending Search Customer By Email Test ***********
+02-04-2023 10:56:15 PM: INFO: *********** Test_05_Search_Customer_By_Name ***********
+02-04-2023 10:56:21 PM: INFO: *********** Login Successful ***********
+02-04-2023 10:56:21 PM: INFO: *********** Starting Search Customer By Name Test ***********
+02-04-2023 10:56:21 PM: INFO: *********** Searching Customer By Name ***********
+02-04-2023 11:00:22 PM: INFO: *********** Verifying Login Test ***********
+02-04-2023 11:00:29 PM: INFO: *********** Login Test Passed ***********
